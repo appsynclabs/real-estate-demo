@@ -1,0 +1,5 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" rx="40" fill="#f8fafc"/>
+  <path d="M100 40L160 90H140V160H60V90H40L100 40Z" fill="#3f566e" stroke="#2c3e50" stroke-width="5"/>
+  <text x="50%" y="180" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#2c3e50" font-weight="bold">SILVER YARDS</text>
+</svg>

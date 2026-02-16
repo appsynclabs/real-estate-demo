@@ -10,6 +10,17 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --font-serif: var(--font-playfair);
+
+  --color-primary: #475569; /* Slate 600 */
+  --color-primary-light: #64748b;
+  --color-primary-dark: #334155;
+  
+  --color-secondary: #0f172a; /* Slate 900 / Deep Navy */
+  --color-secondary-light: #1e293b;
+
+  --color-accent: #cbd5e1; /* Silver */
+  --color-accent-gold: #fbbf24; 
 }
 
 @media (prefers-color-scheme: dark) {
